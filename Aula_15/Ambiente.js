@@ -1,7 +1,7 @@
 let num = [5,8,2,9,3]
 
 
-//num.sort()  // Ordena os valores no Array
+//num.sort()  // Ordena os valores no Array (do menor para o maior)
 //num.push(1) // Acrescenta mais um valor no final do Array
 
 
