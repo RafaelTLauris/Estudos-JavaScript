@@ -1,3 +1,5 @@
+// ref Aula 08
+
 //OPERADORES ARITMÉTICOS             ** TESTAR NO NODE.JS **
 
 var soma = 5 + 5
